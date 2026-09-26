@@ -23,7 +23,6 @@ Input your question: What is the capital of France?
 Input the answer: Paris
 
 **Author**
-
 Summer Jasmine P. Taduran
 
 8-Rosal
