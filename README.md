@@ -5,24 +5,23 @@
 **How to run**
 - Open the Python Program.
 - Out of the 4 options, pick *Number 1* since you haven't made any flashcards yet.
-
+-----------------------------------------------------------------------------------------
 **Input needed**
 - Questions for each flashcard
 - Answers for each flashcard
-
+- Basic yes/no input
+------------------------------------------------------------------------------------------
 **Sample Output**
-1. *Add Flashcards*
-2. *Delete Flashcards*
-3. *Quiz Flashcards*
-4. *Exit*
+1. 'Add Flashcards'
+2. 'Delete Flashcards'
+3. 'Quiz Flashcards'
+4. 'Exit'
 
-*Input the number of your choice here: **1***
+'Input the number of your choice here: **1**'
 
------------------------------------------------------------
+'Input your question: What is the capital of France?'
 
-*Input your question: What is the capital of France?*
-
-*Input the answer: Paris*
+'Input the answer: Paris'
 
 **Author**
 
