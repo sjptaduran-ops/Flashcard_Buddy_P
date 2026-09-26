@@ -16,7 +16,9 @@
 3. *Quiz Flashcards*
 4. *Exit*
 
-*Input the number of your choice here: *1**
+*Input the number of your choice here: **1***
+
+-----------------------------------------------------------
 
 *Input your question: What is the capital of France?*
 
