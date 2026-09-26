@@ -5,9 +5,11 @@
 **How to run**
 - Open the Python Program.
 - Out of the 4 options, pick *Number 1* since you haven't made any flashcards yet.
+
 **Input needed**
 - Questions for each flashcard
 - Answers for each flashcard
+
 **Sample Output**
 - 1. Add Flashcards
   2. Delete Flashcards
